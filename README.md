@@ -62,4 +62,4 @@ A chave da API **não está no código**. Ela é lida dos *Secrets* do Colab com
 
 **Amanda Gabrielly da Silva**
 Estudante de Análise e Desenvolvimento de Sistemas — FICR
-[GitHub](https://github.com/amanda-gabrielly)
+
